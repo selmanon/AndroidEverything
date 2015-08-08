@@ -23,5 +23,11 @@ Contains a set of links, presentations and open sources project to help you to m
 # Android Architecture
 - Tumblr Android Architecture by Tumblr https://speakerdeck.com/tumblr/tumblr-android-architecture
 - Architecting Android http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
+- 
+# Android Prensentations
+- Android Studio Setup : https://docs.google.com/presentation/d/1iD0sMc-qIG80yZ1AQfDU5nxSAl3Xe4nx-2W_g9yzMSM/edit?usp=sharing
+- Mobile App Architecture : https://docs.google.com/presentation/d/1iD0sMc-qIG80yZ1AQfDU5nxSAl3Xe4nx-2W_g9yzMSM/edit?usp=sharing
+- Publishing Your App : https://docs.google.com/presentation/d/1uMh5FRBUCMoJPYaRFsyN4qFS-2pWJ04y0uSO5gTinpw/edit?usp=sharing
+- Android Setup : https://docs.google.com/presentation/d/1JOICG5Ow6QgMBrUKChenvSSxjylCpeQKvfvpPbJMx3M/edit?usp=sharing
 
 
