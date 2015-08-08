@@ -22,6 +22,6 @@ Contains a set of links, presentations and open sources project to help you to m
 
 # Android Architecture
 - Tumblr Android Architecture by Tumblr https://speakerdeck.com/tumblr/tumblr-android-architecture
-- - Architecting Android http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
+- Architecting Android http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
 
 
