@@ -21,9 +21,9 @@ Contains a set of links, presentations and open sources project to help you to m
 - Sketch With Material Design http://www.smashingmagazine.com/2015/05/15/sketch-with-material-design/
 
 # Android Architecture
-- Tumblr Android Architecture by Tumblr https://speakerdeck.com/tumblr/tumblr-android-architecture
-- Architecting Android http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
-- 
+- Tumblr Android Architecture : by Tumblr https://speakerdeck.com/tumblr/tumblr-android-architecture
+- Architecting Android : http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
+
 # Android Prensentations
 - Android Studio Setup : https://docs.google.com/presentation/d/1iD0sMc-qIG80yZ1AQfDU5nxSAl3Xe4nx-2W_g9yzMSM/edit?usp=sharing
 - Mobile App Architecture : https://docs.google.com/presentation/d/1iD0sMc-qIG80yZ1AQfDU5nxSAl3Xe4nx-2W_g9yzMSM/edit?usp=sharing
