@@ -19,3 +19,9 @@ Contains a set of links, presentations and open sources project to help you to m
 - CustomView : http://androidcustomviews.com/
 - Android 5 them : http://www.materialpalette.com/
 - Sketch With Material Design http://www.smashingmagazine.com/2015/05/15/sketch-with-material-design/
+
+# Android Architecture
+- Tumblr Android Architecture by Tumblr https://speakerdeck.com/tumblr/tumblr-android-architecture
+- - Architecting Android http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
+
+
